@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>trading_id</col_name_string>
+        <index_col_name element="trading_id" name="x_820048_first_tes_x_820048_first_tes">4e03c7732fed9110c4f92aa62799b63c</index_col_name>
+        <logical_table_name>x_820048_first_tes_x_820048_first_tes</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-12 08:59:20</sys_created_on>
+        <sys_id>9c43060f2f311110c4f92aa62799b669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_820048_first_tes_x_820048_first_tes</sys_name>
+        <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+        <sys_update_name>sys_index_x_820048_first_tes_x_820048_first_tes_trading_id</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-12 08:59:20</sys_updated_on>
+        <table display_value="販売データ" name="x_820048_first_tes_x_820048_first_tes">3caf85a72f6d5110c4f92aa62799b66c</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

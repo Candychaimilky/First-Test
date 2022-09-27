@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="販売データ_Test">48d02e4d2ff11110c4f92aa62799b6b9</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>販売データテーブルに新しいレコードを追加する</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>販売データの登録</name>
+        <no_attachment_v2>true</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>true</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>db8b1d9f2f3d1110c4f92aa62799b6e9</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=57265e452ff11110c4f92aa62799b67e&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method>submit</request_method>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>販売データを追加する</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 05:32:19</sys_created_on>
+        <sys_id>57265e452ff11110c4f92aa62799b67e</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>販売データの登録</sys_name>
+        <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+        <sys_update_name>sc_cat_item_57265e452ff11110c4f92aa62799b67e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 00:44:21</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="販売データ登録">5f620fc52f751110c4f92aa62799b6a2</workflow>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=57265e452ff11110c4f92aa62799b67e"/>
+    <fx_price action="delete_multiple" query="id=57265e452ff11110c4f92aa62799b67e"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="JPY">JPY</currency>
+        <field>price</field>
+        <id>57265e452ff11110c4f92aa62799b67e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 05:32:19</sys_created_on>
+        <sys_id>915a5e092ff11110c4f92aa62799b6cc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-07 01:31:18</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="JPY">JPY</currency>
+        <field>recurring_price</field>
+        <id>57265e452ff11110c4f92aa62799b67e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 05:32:19</sys_created_on>
+        <sys_id>995a5e092ff11110c4f92aa62799b6cd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-07 01:31:18</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#f1eeea</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>picture</file_name>
+        <hash>7877bbf4d955bc44805f18bc5c1bad566723ffa848e8dc94f9ad918d20176b82</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>4165</size_bytes>
+        <size_compressed>4005</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 00:44:21</sys_created_on>
+        <sys_id>db8b1d9f2f3d1110c4f92aa62799b6e9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 00:44:21</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>57265e452ff11110c4f92aa62799b67e</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="db8b1d9f2f3d1110c4f92aa62799b6e9">db8b1d9f2f3d1110c4f92aa62799b6e9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 00:44:21</sys_created_on>
+        <sys_id>1f8b1d9f2f3d1110c4f92aa62799b6e9</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5328</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="db8b1d9f2f3d1110c4f92aa62799b6e9">db8b1d9f2f3d1110c4f92aa62799b6e9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 00:44:21</sys_created_on>
+        <sys_id>9f8b1d9f2f3d1110c4f92aa62799b6e9</sys_id>
+    </sys_attachment_doc>
+</record_update>
