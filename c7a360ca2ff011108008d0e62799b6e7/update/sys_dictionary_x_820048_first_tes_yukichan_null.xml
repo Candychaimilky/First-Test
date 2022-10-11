@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_field_13" table="x_820048_first_tes_importset_sd">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_820048_first_tes_yukichan">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true,import_attribute_name=field_13</attributes>
+        <attributes/>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>field_13</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,16 +26,16 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_field_13</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_820048_first_tes_importset_sd</name>
+        <name>x_820048_first_tes_yukichan</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -46,15 +51,15 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-09-14 07:55:39</sys_created_on>
-        <sys_id>03d780332f759110c4f92aa62799b65a</sys_id>
-        <sys_name>field_13</sys_name>
+        <sys_created_on>2022-09-28 08:00:58</sys_created_on>
+        <sys_id>9d5fc8142f1a5110c4f92aa62799b66d</sys_id>
+        <sys_name>x_820048_first_tes_yukichan</sys_name>
         <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
-        <sys_update_name>sys_dictionary_x_820048_first_tes_importset_sd_u_field_13</sys_update_name>
+        <sys_update_name>sys_dictionary_x_820048_first_tes_yukichan_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-14 07:55:39</sys_updated_on>
+        <sys_updated_on>2022-09-28 08:00:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -62,7 +67,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
-        <virtual_type/>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
