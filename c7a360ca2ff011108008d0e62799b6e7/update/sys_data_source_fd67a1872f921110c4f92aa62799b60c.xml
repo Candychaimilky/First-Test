@@ -59,14 +59,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-07 03:29:03</sys_created_on>
         <sys_id>fd67a1872f921110c4f92aa62799b60c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>buyma_トモポエム (3).xls (Uploaded)</sys_name>
         <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
         <sys_update_name>sys_data_source_fd67a1872f921110c4f92aa62799b60c</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-07 03:29:09</sys_updated_on>
         <table_name/>
         <type>File</type>
         <use_batch_import>false</use_batch_import>

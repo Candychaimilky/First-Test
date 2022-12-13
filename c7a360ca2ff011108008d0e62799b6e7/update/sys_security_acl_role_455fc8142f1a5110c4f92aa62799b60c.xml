@@ -4,15 +4,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-28 08:00:57</sys_created_on>
         <sys_id>455fc8142f1a5110c4f92aa62799b60c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_820048_first_tes_yukichan.x_820048_first_tes.yukichan_user</sys_name>
         <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
         <sys_security_acl display_value="x_820048_first_tes_yukichan">7c5f88142f1a5110c4f92aa62799b6f7</sys_security_acl>
         <sys_update_name>sys_security_acl_role_455fc8142f1a5110c4f92aa62799b60c</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-28 08:00:57</sys_updated_on>
         <sys_user_role display_value="x_820048_first_tes.yukichan_user" name="x_820048_first_tes.yukichan_user">287c44502f1a5110c4f92aa62799b62e</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>

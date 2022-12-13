@@ -11,14 +11,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-21 06:27:39</sys_created_on>
         <sys_id>a5442cca2ff011108008d0e62799b614</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>parent</sys_name>
         <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
         <sys_update_name>sys_sg_screen_field_a5442cca2ff011108008d0e62799b614</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-21 06:27:39</sys_updated_on>
         <type>auto</type>
         <value_only>false</value_only>
     </sys_sg_screen_field>

@@ -29,15 +29,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c6e6039c2f661110c4f92aa62799b61c</sys_id>
-        <sys_mod_count>7</sys_mod_count>
         <sys_name>販売データが登録更新された場合(5万以上は承認)</sys_name>
         <sys_overrides/>
         <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
         <sys_update_name>sys_hub_flow_c6e6039c2f661110c4f92aa62799b61c</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-11 08:15:51</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=c6e6039c2f661110c4f92aa62799b61c"/>
@@ -412,10 +409,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-11 07:38:45</sys_created_on>
         <sys_id>2ae6039c2f661110c4f92aa62799b66b</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-11 08:15:50</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-10-11 08:17:22</sys_updated_on>
         <ui_id>17a3149b-cc93-42e9-9b0d-b27bce0396f5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2ae6039c2f661110c4f92aa62799b66b"/>
@@ -500,10 +497,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-11 07:38:44</sys_created_on>
         <sys_id>56e6039c2f661110c4f92aa62799b664</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-11 08:15:50</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-10-11 08:17:22</sys_updated_on>
         <ui_id>15e9fcb7-dd31-45cf-8776-b9589022030f</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=56e6039c2f661110c4f92aa62799b664"/>
@@ -969,7 +966,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"0a99c3502fa61110c4f92aa62799b6bd","name":"plan","plan_signature":null}}</plan>
         <plan_id>c6e6039c2f661110c4f92aa62799b61c</plan_id>
-        <snapshot>c999c3502fa61110c4f92aa62799b605</snapshot>
+        <snapshot>44cf0fd42fa61110c4f92aa62799b6a8</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-11 07:50:27</sys_created_on>
         <sys_domain>global</sys_domain>

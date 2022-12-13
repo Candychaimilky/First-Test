@@ -6,14 +6,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-21 06:27:39</sys_created_on>
         <sys_id>7d442cca2ff011108008d0e62799b633</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
         <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
         <sys_update_name>sys_sg_view_config_element_attribute_7d442cca2ff011108008d0e62799b633</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-21 06:27:39</sys_updated_on>
         <translated_value/>
         <value>time_in_seconds</value>
         <view_config_element display_value="time_in_seconds-FieldValue">71442cca2ff011108008d0e62799b632</view_config_element>

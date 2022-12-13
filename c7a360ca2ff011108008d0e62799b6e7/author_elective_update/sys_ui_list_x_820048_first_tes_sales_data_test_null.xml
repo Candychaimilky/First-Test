@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_820048_first_tes_sales_data_test" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_820048_first_tes_sales_data_test" element="NULL" name="x_820048_first_tes_sales_data_test" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">922c59232fad5110c4f92aa62799b624</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-01 09:09:48</sys_created_on>
+            <sys_id>da2c9d232fad5110c4f92aa62799b619</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-01 09:09:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_820048_first_tes_sales_data_test</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-01 09:09:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>922c59232fad5110c4f92aa62799b624</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_820048_first_tes_sales_data_test</sys_name>
+            <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+            <sys_update_name>sys_ui_list_x_820048_first_tes_sales_data_test_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-01 09:09:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</application>
+        <file_path/>
+        <instance_id>8719c8fbdb10ff002f68c5970596197c</instance_id>
+        <instance_name>dev77248</instance_name>
+        <name>sys_ui_list_x_820048_first_tes_sales_data_test_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_820048_first_tes_sales_data_test" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_820048_first_tes_sales_data_test" element="NULL" name="x_820048_first_tes_sales_data_test" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">922c59232fad5110c4f92aa62799b624</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-01 09:09:48</sys_created_on><sys_id>da2c9d232fad5110c4f92aa62799b619</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-01 09:09:48</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_820048_first_tes_sales_data_test</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-01 09:09:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>922c59232fad5110c4f92aa62799b624</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_820048_first_tes_sales_data_test</sys_name><sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package><sys_policy/><sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope><sys_update_name>sys_ui_list_x_820048_first_tes_sales_data_test_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-01 09:09:47</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1146046399</payload_hash>
+        <record_name>sales data(Test)</record_name>
+        <reverted_from/>
+        <source>cba360ca2ff011108008d0e62799b6e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 09:09:48</sys_created_on>
+        <sys_id>5a2c9d232fad5110c4f92aa62799b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182f8504bc00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-01 09:09:48</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>1a2c9d2304ad5110b052739e38b1ca1b</update_guid>
+        <update_guid_history>1a2c9d2304ad5110b052739e38b1ca1b:-1146046399</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 10:18:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>090bd3d5183144f88378ac0824ce1cc1</sys_id>
+        <sys_metadata>922c59232fad5110c4f92aa62799b624</sys_metadata>
+        <sys_name>x_820048_first_tes_sales_data_test</sys_name>
+        <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+        <sys_parent display_value="">86db91ef2f6d5110c4f92aa62799b667</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+        <sys_scope_delete display_value="">b4fb30ca9f5b4884b04ae7327f0aada4</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_820048_first_tes_sales_data_test_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_820048_first_tes_sales_data_test_null">5a2c9d232fad5110c4f92aa62799b61b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

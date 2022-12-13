@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="sales data(Test)">030cd9232fad5110c4f92aa62799b6ca</application>
+        <filter/>
+        <name>sales data(Test)</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_820048_first_tes.sales_data_test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 09:09:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>170cd9232fad5110c4f92aa62799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sales data(Test)</sys_name>
+        <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+        <sys_update_name>sys_ui_module_170cd9232fad5110c4f92aa62799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-01 09:09:18</sys_updated_on>
+        <table>x_820048_first_tes_sales_data_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</application>
+        <file_path/>
+        <instance_id>8719c8fbdb10ff002f68c5970596197c</instance_id>
+        <instance_name>dev77248</instance_name>
+        <name>sys_ui_module_170cd9232fad5110c4f92aa62799b6cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="sales data(Test)">030cd9232fad5110c4f92aa62799b6ca</application><filter/><name>sales data(Test)</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_820048_first_tes.sales_data_test_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-01 09:09:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>170cd9232fad5110c4f92aa62799b6cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sales data(Test)</sys_name><sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package><sys_policy/><sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope><sys_update_name>sys_ui_module_170cd9232fad5110c4f92aa62799b6cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-01 09:09:18</sys_updated_on><table>x_820048_first_tes_sales_data_test</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1717783611</payload_hash>
+        <record_name>sales data(Test)</record_name>
+        <reverted_from/>
+        <source>cba360ca2ff011108008d0e62799b6e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 09:09:18</sys_created_on>
+        <sys_id>930cd9232fad5110c4f92aa62799b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182f84fd9000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-01 09:09:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>db0cd9237ead51100b06bd891ebb96cd</update_guid>
+        <update_guid_history>db0cd9237ead51100b06bd891ebb96cd:-1717783611</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 10:18:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>4b4df8ced317477ea67c48eaab791049</sys_id>
+        <sys_metadata>170cd9232fad5110c4f92aa62799b6cc</sys_metadata>
+        <sys_name>sales data(Test)</sys_name>
+        <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+        <sys_scope_delete display_value="">b4fb30ca9f5b4884b04ae7327f0aada4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_170cd9232fad5110c4f92aa62799b6cc</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_170cd9232fad5110c4f92aa62799b6cc">930cd9232fad5110c4f92aa62799b6ce</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

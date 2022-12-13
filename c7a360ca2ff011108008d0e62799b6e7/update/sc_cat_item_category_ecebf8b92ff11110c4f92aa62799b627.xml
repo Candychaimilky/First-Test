@@ -6,13 +6,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-08 06:35:06</sys_created_on>
         <sys_id>ecebf8b92ff11110c4f92aa62799b627</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>販売データ_Test.販売データRecord Producer</sys_name>
         <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
         <sys_update_name>sc_cat_item_category_ecebf8b92ff11110c4f92aa62799b627</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-08 06:35:06</sys_updated_on>
     </sc_cat_item_category>
 </record_update>

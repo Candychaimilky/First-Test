@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="477b72bb2fad9110c4f92aa62799b627" extends="sys_import_set_row" label="importset_SD" max_length="40" name="x_820048_first_tes_importset_sd" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=A" label="A" max_length="40" name="u_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B" label="B" max_length="40" name="u_b" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C" label="C" max_length="40" name="u_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=D" label="D" max_length="40" name="u_d" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=E" label="E" max_length="40" name="u_e" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=F" label="F" max_length="40" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=G" label="G" max_length="40" name="u_g" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=H" label="H" max_length="40" name="u_h" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=J" label="J" max_length="40" name="u_j" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=K" label="K" max_length="40" name="u_k" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=L" label="L" max_length="40" name="u_l" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=M" label="M" max_length="40" name="u_m" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=N" label="N" max_length="40" name="u_n" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=カテゴリ1" label="カテゴリ1" max_length="40" name="u_カテゴリ1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=カテゴリ2" label="カテゴリ2" max_length="40" name="u_カテゴリ2" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=カテゴリ3" label="カテゴリ3" max_length="40" name="u_カテゴリ3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ブランド" label="ブランド" max_length="40" name="u_ブランド" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=価格" label="価格" max_length="40" name="u_価格" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=入金日" label="入金日" max_length="40" name="u_入金日" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=出品担当" label="出品担当" max_length="40" name="u_出品担当" type="string"/>
+        <element attributes="import_attribute_name=取引ID" label="取引ID" max_length="40" name="u_取引id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=受注日" label="受注日" max_length="40" name="u_受注日" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=商品受取日" label="商品受取日" max_length="40" name="u_商品受取日" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=商品発送日" label="商品発送日" max_length="40" name="u_商品発送日" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=販売報酬月" label="販売報酬月" max_length="40" name="u_販売報酬月" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=返品申請" label="返品申請" max_length="40" name="u_返品申請" type="string"/>
+    </element>
+</database>

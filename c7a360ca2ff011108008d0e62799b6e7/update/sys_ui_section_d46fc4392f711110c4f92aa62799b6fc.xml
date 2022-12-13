@@ -53,15 +53,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d46fc4392f711110c4f92aa62799b6fc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>x_820048_first_tes_x_820048_first_tes</sys_name>
             <sys_overrides/>
             <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
             <sys_policy/>
             <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
             <sys_update_name>sys_ui_section_d46fc4392f711110c4f92aa62799b6fc</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-08 03:20:39</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>

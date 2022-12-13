@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="393fc0142f1a5110c4f92aa62799b67e" label="yukichan" max_length="40" name="x_820048_first_tes_yukichan" type="collection">
+        <element label="クレカ使用" max_length="20" name="use_credit_card" type="boolean"/>
+        <element label="カテゴリ" max_length="20" name="y_category" type="string"/>
+        <element label="日付" mandatory="true" max_length="20" name="y_date" type="glide_date"/>
+        <element label="説明" mandatory="true" max_length="20" name="y_desctiption" type="string"/>
+        <element label="金額" max_length="20" name="y_price" type="integer"/>
+        <index name="index">
+            <element name="y_date"/>
+        </index>
+    </element>
+</database>

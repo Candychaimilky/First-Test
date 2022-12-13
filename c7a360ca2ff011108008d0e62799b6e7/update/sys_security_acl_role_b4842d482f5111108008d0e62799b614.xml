@@ -4,15 +4,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-09 02:31:51</sys_created_on>
         <sys_id>b4842d482f5111108008d0e62799b614</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_820048_first_tes_test_table.x_820048_first_tes.test_table_user</sys_name>
         <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
         <sys_security_acl display_value="x_820048_first_tes_test_table">38842d482f5111108008d0e62799b607</sys_security_acl>
         <sys_update_name>sys_security_acl_role_b4842d482f5111108008d0e62799b614</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-09 02:31:51</sys_updated_on>
         <sys_user_role display_value="x_820048_first_tes.test_table_user" name="x_820048_first_tes.test_table_user">448425082f5111108008d0e62799b62b</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>

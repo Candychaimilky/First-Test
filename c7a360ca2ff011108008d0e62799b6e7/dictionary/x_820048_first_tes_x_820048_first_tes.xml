@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3caf85a72f6d5110c4f92aa62799b66c" label="販売データ" max_length="40" name="x_820048_first_tes_x_820048_first_tes" type="collection">
+        <element label="ブランド" max_length="255" name="brand" type="string_full_utf8"/>
+        <element label="承認済み" max_length="20" name="cancel_or_approved" type="boolean"/>
+        <element label="カテゴリ１" max_length="255" name="category_1" type="string_full_utf8"/>
+        <element label="カテゴリ２" max_length="255" name="category_2" type="string_full_utf8"/>
+        <element label="カテゴリ３" max_length="255" name="category_3" type="string_full_utf8"/>
+        <element label="受注日" max_length="40" name="order_date" type="glide_date"/>
+        <element label="価格" max_length="20" name="price" type="string"/>
+        <element label="商品受取日" max_length="40" name="receipt_date" type="glide_date"/>
+        <element label="出品担当者" max_length="20" name="selling_person" type="string"/>
+        <element label="商品発送日" max_length="40" name="shipping_date" type="glide_date"/>
+        <element display="true" label="取引ID" max_length="20" name="trading_id" type="string"/>
+        <index name="index">
+            <element name="order_date"/>
+        </index>
+        <index name="index2">
+            <element name="trading_id"/>
+        </index>
+    </element>
+</database>

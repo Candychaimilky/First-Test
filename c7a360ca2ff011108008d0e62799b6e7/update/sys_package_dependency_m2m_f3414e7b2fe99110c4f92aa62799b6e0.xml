@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Global" source="global">global</dependency>
+        <min_version/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 06:30:35</sys_created_on>
+        <sys_id>f3414e7b2fe99110c4f92aa62799b6e0</sys_id>
+        <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

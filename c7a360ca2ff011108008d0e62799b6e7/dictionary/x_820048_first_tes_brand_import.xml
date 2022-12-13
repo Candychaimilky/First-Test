@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b47b6e852f351110c4f92aa62799b61e" extends="sys_import_set_row" label="Brand_import" max_length="40" name="x_820048_first_tes_brand_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ブランド名" label="ブランド名" max_length="40" name="u_ブランド名" type="string"/>
+    </element>
+</database>

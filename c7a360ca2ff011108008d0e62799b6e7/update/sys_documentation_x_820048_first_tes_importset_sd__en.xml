@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="importset_SD" language="en" table="x_820048_first_tes_importset_sd">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>importset_SD</label>
+            <language>en</language>
+            <name>x_820048_first_tes_importset_sd</name>
+            <plural>importset_SDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-02 10:44:45</sys_created_on>
+            <sys_name>importset_SD</sys_name>
+            <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+            <sys_update_name>sys_documentation_x_820048_first_tes_importset_sd__en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

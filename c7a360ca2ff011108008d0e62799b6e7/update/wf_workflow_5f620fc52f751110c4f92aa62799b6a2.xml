@@ -31,12 +31,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-08 04:16:08</sys_created_on>
         <sys_id>341c50712fb11110c4f92aa62799b6b2</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-08 04:20:33</sys_updated_on>
+        <sys_updated_on>2022-09-08 04:24:32</sys_updated_on>
         <table>sc_req_item</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="販売データ登録">5f620fc52f751110c4f92aa62799b6a2</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_a" table="u_sales_date">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>edge_encryption_enabled=true,import_attribute_name=A</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>A</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_a</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>u_sales_date</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 06:30:34</sys_created_on>
+        <sys_id>bb414e7b2fe99110c4f92aa62799b638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>A</sys_name>
+        <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+        <sys_update_name>sys_dictionary_u_sales_date_u_a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-02 06:30:34</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</application>
+        <file_path/>
+        <instance_id>8719c8fbdb10ff002f68c5970596197c</instance_id>
+        <instance_name>dev77248</instance_name>
+        <name>sys_dictionary_u_sales_date_u_a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_a" table="u_sales_date"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true,import_attribute_name=A</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>A</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_a</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_sales_date</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-02 06:30:34</sys_created_on><sys_id>bb414e7b2fe99110c4f92aa62799b638</sys_id><sys_mod_count>0</sys_mod_count><sys_name>A</sys_name><sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package><sys_policy/><sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope><sys_update_name>sys_dictionary_u_sales_date_u_a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-02 06:30:34</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1006210940</payload_hash>
+        <record_name>sales date.A</record_name>
+        <reverted_from/>
+        <source>cba360ca2ff011108008d0e62799b6e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 06:30:35</sys_created_on>
+        <sys_id>fb414e7b2fe99110c4f92aa62799b6e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182fce4e3c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-02 06:30:35</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>77414e7b33e99110d92fe56baf5019e2</update_guid>
+        <update_guid_history>77414e7b33e99110d92fe56baf5019e2:-1006210940</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-02 06:42:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>0abbe1d9cc28462da5c64beefa414811</sys_id>
+        <sys_metadata>bb414e7b2fe99110c4f92aa62799b638</sys_metadata>
+        <sys_name>A</sys_name>
+        <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+        <sys_parent display_value="Sales Date">ff7fd5272fad5110c4f92aa62799b620</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+        <sys_scope_delete display_value="">b4fb30ca9f5b4884b04ae7327f0aada4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_u_sales_date_u_a</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_u_sales_date_u_a">fb414e7b2fe99110c4f92aa62799b6e2</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ff7fd5272fad5110c4f92aa62799b620" extends="sys_import_set_row" label="sales date" max_length="40" name="u_sales_date" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=出品担当" label="出品担当" max_length="40" name="u_出品担当" type="string"/>
+    </element>
+</database>

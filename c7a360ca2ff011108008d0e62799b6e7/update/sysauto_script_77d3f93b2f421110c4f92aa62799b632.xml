@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 00:00:00</entered_time>
+        <name>販売データの検索</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2022-09-27 02:03:15</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[var record = new GlideRecord('販売データ');
+record.addQuery('active', true);
+record.query();
+var count = record.getRowCount();
+while (record.next()) {
+    var p = record.getValue('price')
+	
+    if (p < 50000) {
+        record.setValue('cancel_or_approved', true);
+        record.update();
+    } else {}
+
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-27 02:15:09</sys_created_on>
+        <sys_id>77d3f93b2f421110c4f92aa62799b632</sys_id>
+        <sys_name>販売データの検索</sys_name>
+        <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
+        <sys_update_name>sysauto_script_77d3f93b2f421110c4f92aa62799b632</sys_update_name>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

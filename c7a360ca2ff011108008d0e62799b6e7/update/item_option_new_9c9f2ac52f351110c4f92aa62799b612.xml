@@ -41,6 +41,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>price</name>
         <order/>
+        <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -68,14 +69,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-06 07:05:47</sys_created_on>
         <sys_id>9c9f2ac52f351110c4f92aa62799b612</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>価格</sys_name>
         <sys_package display_value="First Test" source="x_820048_first_tes">c7a360ca2ff011108008d0e62799b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Test">c7a360ca2ff011108008d0e62799b6e7</sys_scope>
         <sys_update_name>item_option_new_9c9f2ac52f351110c4f92aa62799b612</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-06 07:05:47</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
